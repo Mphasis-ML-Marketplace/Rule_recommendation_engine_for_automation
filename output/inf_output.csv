@@ -1,0 +1,143 @@
+user_id,Trigger Device,Trigger Device ID,Action Device,Action Device ID,Trigger State,Trigger State ID,Action,Action ID,Rule
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Upload a short video to the cloud,46,977316_9_46_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn on notifications,38,977316_9_38_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn on motion detection,37,977316_9_37_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn on the siren,42,977316_9_42_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn on notifications,38,977316_6_38_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Upload a short video to the cloud,46,977316_6_46_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn on the camera,41,977316_9_41_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn on motion detection,37,977316_6_37_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn on the siren,42,977316_6_42_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn on the camera,41,977316_6_41_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a pet,7,Turn on notifications,38,977316_7_38_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a pet,7,Turn on motion detection,37,977316_7_37_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects sound,11,Upload a short video to the cloud,46,977316_11_46_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a pet,7,Turn on the camera,41,977316_7_41_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects sound,11,Turn on notifications,38,977316_11_38_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects smoke alarm sound,10,Turn on notifications,38,977316_10_38_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects sound,11,Turn on motion detection,37,977316_11_37_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn on floodlight,33,977316_6_33_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a pet,7,Upload a short video to the cloud,46,977316_7_46_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn on the add-on spotlight,40,977316_6_40_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn off motion detection,24,977316_9_24_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn off the siren,28,977316_9_28_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn off notifications,25,977316_9_25_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Restart the camera,8,977316_9_8_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects CO alarm sound,3,Turn on notifications,38,977316_3_38_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn on lamp socket,36,977316_6_36_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Is pressed,20,Upload a short video to the cloud,46,977316_20_46_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects smoke alarm sound,10,Upload a short video to the cloud,46,977316_10_46_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn on the add-on spotlight,40,977316_9_40_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Is pressed,20,Turn on notifications,38,977316_20_38_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects smoke alarm sound,10,Turn on motion detection,37,977316_10_37_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a vehicle,8,Turn on motion detection,37,977316_8_37_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn off motion detection,24,977316_6_24_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a vehicle,8,Upload a short video to the cloud,46,977316_8_46_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn on lamp socket,36,977316_9_36_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Turn on floodlight,33,977316_9_33_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects motion,9,Reset Position,7,977316_9_7_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a vehicle,8,Turn on the camera,41,977316_8_41_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Restart the camera,8,977316_6_8_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a person,6,Turn off the camera,27,977316_6_27_1407198
+20017,ContactSensor,977316,MotionSensor,1407198,Detects a pet,7,Turn on the siren,42,977316_7_42_1407198
+295051,ContactSensor,1119712,Camera,166771,Detects motion,9,Upload a short video to the cloud,46,1119712_9_46_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects motion,9,Upload a short video to the cloud,46,1119712_9_46_1626523
+295051,MotionSensor,1626523,Camera,166771,Detects motion,9,Upload a short video to the cloud,46,1626523_9_46_166771
+295051,MotionSensor,1626523,Camera,166771,Detects motion,9,Turn on notifications,38,1626523_9_38_166771
+295051,ContactSensor,1119712,Camera,166771,Detects motion,9,Turn on notifications,38,1119712_9_38_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects motion,9,Turn on notifications,38,1119712_9_38_1626523
+295051,MotionSensor,1626523,Camera,166771,Detects motion,9,Turn on motion detection,37,1626523_9_37_166771
+295051,ContactSensor,1119712,Camera,166771,Detects motion,9,Turn on motion detection,37,1119712_9_37_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects motion,9,Turn on motion detection,37,1119712_9_37_1626523
+295051,MotionSensor,1626523,Camera,166771,Detects a person,6,Turn on notifications,38,1626523_6_38_166771
+295051,ContactSensor,1119712,Camera,166771,Detects a person,6,Turn on notifications,38,1119712_6_38_166771
+295051,ContactSensor,1119712,Camera,166771,Detects motion,9,Turn on the siren,42,1119712_9_42_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects motion,9,Turn on the siren,42,1119712_9_42_1626523
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects a person,6,Turn on notifications,38,1119712_6_38_1626523
+295051,MotionSensor,1626523,Camera,166771,Detects a person,6,Upload a short video to the cloud,46,1626523_6_46_166771
+295051,MotionSensor,1626523,Camera,166771,Detects a person,6,Turn on motion detection,37,1626523_6_37_166771
+295051,MotionSensor,1626523,Camera,166771,Detects motion,9,Turn on the siren,42,1626523_9_42_166771
+295051,ContactSensor,1119712,Camera,166771,Detects a person,6,Upload a short video to the cloud,46,1119712_6_46_166771
+295051,MotionSensor,1626523,Camera,166771,Detects motion,9,Turn on the camera,41,1626523_9_41_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects a person,6,Upload a short video to the cloud,46,1119712_6_46_1626523
+295051,ContactSensor,1119712,Camera,166771,Detects motion,9,Turn on the camera,41,1119712_9_41_166771
+295051,ContactSensor,1119712,Camera,166771,Detects a person,6,Turn on motion detection,37,1119712_6_37_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects motion,9,Turn on the camera,41,1119712_9_41_1626523
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects a person,6,Turn on motion detection,37,1119712_6_37_1626523
+295051,ContactSensor,1119712,Camera,166771,Detects a person,6,Turn on the siren,42,1119712_6_42_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects a person,6,Turn on the siren,42,1119712_6_42_1626523
+295051,MotionSensor,1626523,Camera,166771,Detects a person,6,Turn on the siren,42,1626523_6_42_166771
+295051,ContactSensor,1119712,Camera,166771,Detects a person,6,Turn on the camera,41,1119712_6_41_166771
+295051,MotionSensor,1626523,Camera,166771,Detects a person,6,Turn on the camera,41,1626523_6_41_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects a person,6,Turn on the camera,41,1119712_6_41_1626523
+295051,MotionSensor,1626523,Camera,166771,Detects sound,11,Upload a short video to the cloud,46,1626523_11_46_166771
+295051,ContactSensor,1119712,Camera,166771,Detects a pet,7,Turn on notifications,38,1119712_7_38_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects a pet,7,Turn on notifications,38,1119712_7_38_1626523
+295051,ContactSensor,1119712,Camera,166771,Detects sound,11,Upload a short video to the cloud,46,1119712_11_46_166771
+295051,MotionSensor,1626523,Camera,166771,Detects sound,11,Turn on notifications,38,1626523_11_38_166771
+295051,ContactSensor,1119712,Camera,166771,Detects a pet,7,Turn on motion detection,37,1119712_7_37_166771
+295051,ContactSensor,1119712,Camera,166771,Detects sound,11,Turn on notifications,38,1119712_11_38_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects a pet,7,Turn on motion detection,37,1119712_7_37_1626523
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects sound,11,Upload a short video to the cloud,46,1119712_11_46_1626523
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects a pet,7,Turn on the camera,41,1119712_7_41_1626523
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects sound,11,Turn on notifications,38,1119712_11_38_1626523
+295051,MotionSensor,1626523,Camera,166771,Detects smoke alarm sound,10,Turn on notifications,38,1626523_10_38_166771
+295051,ContactSensor,1119712,Camera,166771,Detects a pet,7,Turn on the camera,41,1119712_7_41_166771
+295051,ContactSensor,1119712,Camera,166771,Detects smoke alarm sound,10,Turn on notifications,38,1119712_10_38_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects smoke alarm sound,10,Turn on notifications,38,1119712_10_38_1626523
+295051,MotionSensor,1626523,Camera,166771,Detects sound,11,Turn on motion detection,37,1626523_11_37_166771
+295051,ContactSensor,1119712,Camera,166771,Detects sound,11,Turn on motion detection,37,1119712_11_37_166771
+295051,MotionSensor,1626523,Camera,166771,Detects a person,6,Turn on the add-on spotlight,40,1626523_6_40_166771
+295051,MotionSensor,1626523,Camera,166771,Detects a pet,7,Turn on notifications,38,1626523_7_38_166771
+295051,ContactSensor,1119712,MotionSensor,1626523,Detects sound,11,Turn on motion detection,37,1119712_11_37_1626523
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Upload a short video to the cloud,46,1636785_9_46_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn on notifications,38,1636785_9_38_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn on motion detection,37,1636785_9_37_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn on the siren,42,1636785_9_42_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn on notifications,38,1636785_6_38_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Upload a short video to the cloud,46,1636785_6_46_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn on the camera,41,1636785_9_41_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn on motion detection,37,1636785_6_37_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn on the siren,42,1636785_6_42_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn on the camera,41,1636785_6_41_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a pet,7,Turn on notifications,38,1636785_7_38_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a pet,7,Turn on motion detection,37,1636785_7_37_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects sound,11,Upload a short video to the cloud,46,1636785_11_46_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a pet,7,Turn on the camera,41,1636785_7_41_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects sound,11,Turn on notifications,38,1636785_11_38_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects smoke alarm sound,10,Turn on notifications,38,1636785_10_38_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects sound,11,Turn on motion detection,37,1636785_11_37_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn on floodlight,33,1636785_6_33_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a pet,7,Upload a short video to the cloud,46,1636785_7_46_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn on the add-on spotlight,40,1636785_6_40_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn off motion detection,24,1636785_9_24_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn off the siren,28,1636785_9_28_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn off notifications,25,1636785_9_25_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Restart the camera,8,1636785_9_8_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects CO alarm sound,3,Turn on notifications,38,1636785_3_38_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn on lamp socket,36,1636785_6_36_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Is pressed,20,Upload a short video to the cloud,46,1636785_20_46_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects smoke alarm sound,10,Upload a short video to the cloud,46,1636785_10_46_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn on the add-on spotlight,40,1636785_9_40_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Is pressed,20,Turn on notifications,38,1636785_20_38_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects smoke alarm sound,10,Turn on motion detection,37,1636785_10_37_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a vehicle,8,Turn on motion detection,37,1636785_8_37_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn off motion detection,24,1636785_6_24_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a vehicle,8,Upload a short video to the cloud,46,1636785_8_46_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn on lamp socket,36,1636785_9_36_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Turn on floodlight,33,1636785_9_33_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects motion,9,Reset Position,7,1636785_9_7_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a vehicle,8,Turn on the camera,41,1636785_8_41_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Restart the camera,8,1636785_6_8_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a person,6,Turn off the camera,27,1636785_6_27_1474566
+183717,ContactSensor,1636785,MotionSensor,1474566,Detects a pet,7,Turn on the siren,42,1636785_7_42_1474566
+87778,LightStrip,878818,Switch,1004798,Detects motion,9,Turn on notifications,38,878818_9_38_1004798
+87778,LightStrip,878818,Switch,1004798,Detects motion,9,Upload a short video to the cloud,46,878818_9_46_1004798
+87778,Plug,1200081,Switch,1004798,Detects motion,9,Turn on notifications,38,1200081_9_38_1004798
+87778,Plug,1200081,Switch,1004798,Detects motion,9,Upload a short video to the cloud,46,1200081_9_46_1004798
+87778,Plug,1200081,LightStrip,878818,Detects motion,9,Turn on notifications,38,1200081_9_38_878818
+87778,Plug,1200081,LightStrip,878818,Detects motion,9,Upload a short video to the cloud,46,1200081_9_46_878818
+87778,Light,1190971,Switch,1004798,Detects motion,9,Upload a short video to the cloud,46,1190971_9_46_1004798
+87778,Light,1190971,Switch,1004798,Detects motion,9,Turn on notifications,38,1190971_9_38_1004798
+87778,Light,1190971,LightStrip,878818,Detects motion,9,Upload a short video to the cloud,46,1190971_9_46_878818
+87778,Light,1190971,LightStrip,878818,Detects motion,9,Turn on notifications,38,1190971_9_38_878818
